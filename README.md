@@ -21,7 +21,7 @@ This is an egyptian style lantern for decoration purposes, I've improved on the 
 | RGB Light | 7.76   |            | [Link](https://www.aliexpress.us/item/3256807982856924.html)        | Shipping: NA                                 |
 | Magnets   | 3.21   | Top Lid    | [Link](https://www.aliexpress.us/item/3256810253099525.html)        | Shipping: NA                                 |
 | 3D Print  | 0.00   | Structural |                                                                      | Using Print Legion; Shipping: NA             |
-| 3D Print  | 14.03  | Structural | [USPS Notice](https://pe.usps.com/text/dmm300/Notice123.htm#_c451)  | Max price according to Print Legion          |
+| 3D Print  | 14.03  | Structural | [USPS Notice](https://pe.usps.com/text/dmm300/Notice123.htm#_c451)  | Max price according to Print Legion, This will 99% not all be used          |
 | **Total** | 25.00  |            |                                                                      |                                              |
 
 ## Cart pictures 
