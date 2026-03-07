@@ -1,5 +1,10 @@
 # Mega-Ramadaan-Lantern
 
+## What is this?
+this is a 3d printable lantern with RGB strip around the top and connected by magnets. The top is connected to the main body using the Magnets (found un BOM). The battery compartment of the led strip goes in the rectangle seen on the left of the imsge, and then is mounted knto the top of the lid. Yoou can glue the LED strip around the top and see it loght up!
+
+
+
 ## Description
 This is an egyptian style lantern for decoration purposes, I've improved on the desing by adding bigger symmetrical amgnets all around, Using a RGB strip and more deisgn structure overall. This project is for decorational purposes. I made this project to improve on my old design and to try and implement better features
 
