@@ -3,6 +3,13 @@
 ## What is this?
 this is a 3d printable lantern with RGB strip around the top and connected by magnets. The top is connected to the main body using the Magnets (found un BOM). The battery compartment of the led strip goes in the rectangle seen on the left of the imsge, and then is mounted knto the top of the lid. Yoou can glue the LED strip around the top and see it loght up!
 
+## Assembly
+
+<img width="511" height="278" alt="Screenshot 2026-03-09 at 2 10 30 PM" src="https://github.com/user-attachments/assets/d2ff15e7-df22-4788-bcc4-859d2f0dea15" />
+<img width="456" height="284" alt="Screenshot 2026-03-09 at 2 10 36 PM" src="https://github.com/user-attachments/assets/ed7a77ae-959e-4ff7-9d46-cf683e928a9d" />
+<img width="488" height="276" alt="Screenshot 2026-03-09 at 2 10 43 PM" src="https://github.com/user-attachments/assets/67762743-9d45-4997-8142-41f1480cf3ef" />
+
+
 
 
 ## Description
