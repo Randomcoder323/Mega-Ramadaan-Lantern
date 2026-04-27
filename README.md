@@ -1,4 +1,17 @@
-# Mega-Ramadaan-Lantern
+## RGB Mega-Ramadaan-Lantern
+
+## [Build Video]([URL_HERE](https://www.youtube.com/shorts/hYfY9I8cDms))
+https://www.youtube.com/shorts/hYfY9I8cDms
+
+## Build
+<img width="3000" height="3000" alt="1000019848" src="https://github.com/user-attachments/assets/7ad410b1-605e-47df-a89f-81eb56e6e883" />
+
+<img width="3000" height="3000" alt="1000019845" src="https://github.com/user-attachments/assets/b59e1232-30a8-4a8a-9c45-18d7783fbc91" />
+<img width="3000" height="3000" alt="1000019847" src="https://github.com/user-attachments/assets/d144a791-1a5d-4b9c-a649-22f469fbba24" />
+<img width="3000" height="3000" alt="1000019846" src="https://github.com/user-attachments/assets/90fcd109-5863-4c71-aad7-d4dd4f9605d9" />
+<img width="3000" height="3000" alt="1000019840" src="https://github.com/user-attachments/assets/18d12b9d-3deb-47cc-947f-9a62ef50de84" />
+
+
 
 ## What is this?
 this is a 3d printable lantern with RGB strip around the top and connected by magnets. The top is connected to the main body using the Magnets (found un BOM). The battery compartment of the led strip goes in the rectangle seen on the left of the imsge, and then is mounted knto the top of the lid. Yoou can glue the LED strip around the top and see it loght up!
